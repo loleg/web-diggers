@@ -10,11 +10,11 @@ export function WelcomePage(
         alignItems: "center",
       }}
     >
-      <div className="bg-white p-10 flex-shrink max-w-4xl">
-        <h1 className="text-4xl font-bold pb-3">
+      <div className="flex-shrink max-w-4xl">
+        <h1 className="mt-10 text-4xl font-bold p-3 bg-white">
           Explore historic digital Basel
         </h1>
-        <h2 className="text-2xl pb-4">
+        <h2 className="text-2xl pb-4 bg-white p-3">
           Life in Basel was already quite digitalised in 2000. Take the
           time machine back to when dial-up connections ruled, floppy disks
           stored our data, and Y2K was the talk of the town. Press

@@ -4,16 +4,16 @@ export function SeeYou() {
     <div
       className="h-full maxh-full min-w-full border-black bg-cover bg-center flex relative"
       style={{
-        backgroundImage: "url('/basel-map-grayscale.jpg')",
+        backgroundImage: "url('/707505_ditch_xl-1024-v1-0.jpg')",
         justifyContent: "center",
         alignItems: "center",
       }}
     >
-      <div className="bg-white p-10 flex-shrink max-w-4xl ">
-        <h1 className="text-6xl font-bold pb-3">
+      <div className="p-10 flex-shrink max-w-4xl ">
+        <h1 className="text-6xl font-bold pb-3 bg-white ">
           Thank you for digging in!
         </h1>
-        <div className="wrapper ">
+        <div className="wrapper bg-white">
         <img src="./web-digger-form.png" className="absolute top-3 right-1" alt="web-diggers" style={{width: "10%", height: "auto"}}/>
 
         <h2 className="text-2xl pb-4">

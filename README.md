@@ -1,7 +1,13 @@
-Web Diggers
+Webdit.ch - Y2K edition
 ---
 
-A BaselHack 2023 project.
+Navigate through Web history in a series of dioramas. Scroll right and left as if you were walking in a virtual museum. Click on images to reveal an interactive exhibit or video-clip. Dive in deeper with full screen visuals. Invite the audience to contribute through an online form.
+
+A BaselHack 2023 project by the <tt>Web Diggers</tt>
+
+![](webapp/public/707505_ditch_xl-1024-v1-0.jpg)
+
+_Image generated with Stable Diffusion v1.0_
 
 # Requirements
 
@@ -27,4 +33,6 @@ Run `make refresh` to update the JSON file in the data folder.
 
 # License
 
-[MIT](LICENSE)
+All names, logotypes, images are the property of their respective owners, and are used in this project on a "fair use" basis.
+
+The code behind this web application is licensed with the [MIT License](LICENSE). All other contents are in the public domain.
